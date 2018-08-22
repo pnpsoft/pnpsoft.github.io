@@ -17,19 +17,19 @@ pnpdot.com은 중소기업을 대상으로 하는 업무공유플랫폼입니다
 
 ## 30일 무료사용 신청하기
 ![30일무료사용신청]({{site.baseurl}}/assets/img/30days01.PNG)
-pnpdot.com 접속에서 30일무료이용하기를 클릭하여 신청페이지로 이동합니다.
+* pnpdot.com 접속에서 30일무료이용하기를 클릭하여 신청페이지로 이동합니다.
 
 ![30일무료사용신청]({{site.baseurl}}/assets/img/30days02.PNG)
-30일 무료이용하기에 필요한 기본정보를 입력합니다.
+* 30일 무료이용하기에 필요한 기본정보를 입력합니다.
 
 ![30일무료사용신청]({{site.baseurl}}/assets/img/30days03.jpg)
-무료신청이 완료되면, 도메인검증, 사업자검증 후 관리담당자메일로 사용허가 메일이 발송됩니다.
+* 무료신청이 완료되면, 도메인검증, 사업자검증 후 관리담당자메일로 사용허가 메일이 발송됩니다.
 
 ![30일무료사용신청]({{site.baseurl}}/assets/img/30days04.PNG)
-사용허가 발송 메일 수신 후 가입확인하기를 통하여 pnpdot.com 서비스로 접근이 가능해집니다.
+* 사용허가 발송 메일 수신 후 가입확인하기를 통하여 pnpdot.com 서비스로 접근이 가능해집니다.
 
 ## 로그인하기
-![로그인하기]({{site.baseurl}}/assets/img/login.PNG)
+<img width="50%" height="auto">![로그인하기]({{site.baseurl}}/assets/img/login.PNG)</img>
 ![로그인하기]({{site.baseurl}}/assets/img/login2.PNG)
 ![로그인하기]({{site.baseurl}}/assets/img/login3.PNG)
 
