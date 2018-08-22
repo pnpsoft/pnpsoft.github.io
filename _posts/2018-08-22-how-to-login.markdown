@@ -29,7 +29,7 @@ pnpdot.com은 중소기업을 대상으로 하는 업무공유플랫폼입니다
 * 사용허가 발송 메일 수신 후 가입확인하기를 통하여 pnpdot.com 서비스로 접근이 가능해집니다.
 
 ## 로그인하기
-<img width="50%" height="auto">![로그인하기]({{site.baseurl}}/assets/img/login.PNG)</img>
+![로그인하기]({{site.baseurl}}/assets/img/login.PNG)
 ![로그인하기]({{site.baseurl}}/assets/img/login2.PNG)
 ![로그인하기]({{site.baseurl}}/assets/img/login3.PNG)
 
