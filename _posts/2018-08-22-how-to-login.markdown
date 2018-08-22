@@ -9,9 +9,14 @@ tags: [Holidays, Hawaii]
 ---
 pnpdot.com을 사용하기 위해서는 사전에 사용신청을 먼저 하셔야 합니다.
 pnpdot.com은 중소기업을 대상으로 하는 업무공유플랫폼입니다.
-먼저 30일 무료사용신청을 통해서 서비스를 이용해 볼 수 있습니다만,
+
+먼저 30일 무료사용신청을 통해서 서비스를 이용해 볼 수 있습니다.
 기업의 도메인정보와 사업자정보제공이 필수입니다. 
 무료사용기간이 종료 후 해당 기업으로 월 사용료에 대한 안내메일과 함께 비용이 부과되게 됩니다.
+언제든지 사용을 원치 않으실 경우 사용중지를 신청할 수 있습니다.
+
+![30일무료사용신청]({{site.baseurl}}/assets/img/30days01.jpg)
+![30일무료사용신청]({{site.baseurl}}/assets/img/30days02.jpg)
 
 ## Plaid ramps kitsch woke pork belly
 90's yr crucifix, selvage 8-bit listicle forage cliche shoreditch hammock microdosing synth. Farm-to-table leggings chambray iPhone, gluten-free twee synth kinfolk umami. Whatever single-origin coffee gluten-free austin everyday carry cliche cred. Plaid ramps kitsch woke pork belly organic. Trust fund whatever coloring book kombucha brooklyn. Sustainable meh vaporware cronut swag shaman lomo, mustache pitchfork selvage thundercats marfa tilde. Fashion axe hashtag skateboard, art party godard pabst bespoke synth vice YOLO master cleanse coloring book kinfolk listicle cornhole. Try-hard mixtape umami fanny pack man bun gastropub franzen tbh. Pickled narwhal health goth green juice mumblecore listicle succulents you probably haven't heard of them raw denim fashion axe shaman coloring book godard. Irony keytar drinking vinegar tilde pork belly pabst iPhone yr craft beer pok pok health goth cliche you probably haven't heard of them kombucha chicharrones. Direct trade hella roof party chia. Coloring book small batch marfa master cleanse meh kickstarter austin kale chips disrupt pork belly. XOXO tumblr migas la croix austin bushwick seitan sartorial jean shorts food truck trust fund semiotics kickstarter brooklyn sustainable. Umami knausgaard mixtape marfa. Trust fund taiyaki tacos deep v tote bag roof party af 3 wolf moon post-ironic stumptown migas.
