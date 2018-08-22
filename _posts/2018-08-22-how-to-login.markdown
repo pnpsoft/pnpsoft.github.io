@@ -1,11 +1,11 @@
 ---
 layout: post
-title: pnpdot.com 서비스를 
+title: 피앤피닷컴 서비스를 이용하려면
 date: 2018-08-22 14:48:20 +0300
 description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
 img: login.PNG # Add image post (optional)
 fig-caption: # Add figcaption (optional)
-tags: [Holidays, Hawaii]
+tags: [pnpdot, 협업관리, 공유, 업무공유]
 ---
 pnpdot.com을 사용하기 위해서는 사전에 사용신청을 먼저 하셔야 합니다.
 pnpdot.com은 중소기업을 대상으로 하는 업무공유플랫폼입니다.
