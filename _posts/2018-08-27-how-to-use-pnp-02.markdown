@@ -20,7 +20,11 @@ pnpdot.com은 업무공유플랫폼입니다. 대부분의 사용자들이 업�
 <img src="{{site.baseurl}}/assets/img/task/task02.PNG" alt="alt text" width="800" height="auto">
 > 목록을 클릭하면 화면과 같이 우측에 각 목록의 상세정보를 관리할 수 있는 화면이 제공됩니다.
 
-<img src="{{site.baseurl}}/assets/img/task/task02_01.PNG" alt="alt text" width="200" height="auto"><img src="{{site.baseurl}}/assets/img/task/task02_02.PNG" alt="alt text" width="200" height="auto"><img src="{{site.baseurl}}/assets/img/task/task02_03.PNG" alt="alt text" width="200" height="auto"><img src="{{site.baseurl}}/assets/img/task/task02_04.PNG" alt="alt text" width="200" height="auto">
+<img src="{{site.baseurl}}/assets/img/task/task02_01.PNG" alt="alt text" width="300" height="auto">
+<img src="{{site.baseurl}}/assets/img/task/task02_02.PNG" alt="alt text" width="300" height="auto">
+<img src="{{site.baseurl}}/assets/img/task/task02_03.PNG" alt="alt text" width="300" height="auto">
+<img src="{{site.baseurl}}/assets/img/task/task02_04.PNG" alt="alt text" width="300" height="auto">
+>
 
 ## 목록보기, 그룹별보기, 달력보기
 <img src="{{site.baseurl}}/assets/img/task/task04.PNG" alt="alt text" width="800" height="auto">
