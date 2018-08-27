@@ -3,7 +3,7 @@ layout: post
 title: 업무 메뉴의 세부기능 알아보기
 date: 2018-08-22 14:48:20 +0300
 description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
-img: pnp01.PNG # Add image post (optional)
+img: task.PNG # Add image post (optional)
 fig-caption: # Add figcaption (optional)
 tags: [pnpdot, 협업관리, 공유, 업무공유, 업무, 업무공유플랫폼]
 ---
@@ -12,11 +12,18 @@ pnpdot.com은 업무공유플랫폼입니다. 대부분의 사용자들이 업�
 
 
 ## 기본구성
-<img src="{{site.baseurl}}/assets/img/pnp/pnp02.PNG" alt="alt text" width="700" height="auto">
-* 새롭게주어진업무,변경사항이 발생한 업무 내가 체크해야 하는 업무를 이 곳에서 확인하세요.
+<img src="{{site.baseurl}}/assets/img/task/task01.PNG" alt="alt text" width="800" height="auto">
+* 1번은 주 메뉴로 사이트내에 항상 볼 수 있는 메뉴입니다. pnpdot.com에서 제공하는 기본기능의 메뉴들입니다.
+* 2번은 각 메뉴별로 검색조건이 표시되는 영역입니다.
+* 3번은 작업영역으로 각 메뉴별로 주요 작업 장소가 되는 곳입니다.
+
+<img src="{{site.baseurl}}/assets/img/task/task02.PNG" alt="alt text" width="800" height="auto">
+> 목록을 클릭하면 화면과 같이 우측에 각 목록의 상세정보를 관리할 수 있는 화면이 제공됩니다.
+
+<img src="{{site.baseurl}}/assets/img/task/task02_01.PNG" alt="alt text" width="200" height="auto"><img src="{{site.baseurl}}/assets/img/task/task02_02.PNG" alt="alt text" width="200" height="auto"><img src="{{site.baseurl}}/assets/img/task/task02_03.PNG" alt="alt text" width="200" height="auto"><img src="{{site.baseurl}}/assets/img/task/task02_04.PNG" alt="alt text" width="200" height="auto">
 
 ## 목록보기, 그룹별보기, 달력보기
-<img src="{{site.baseurl}}/assets/img/pnp/pnp03.PNG" alt="alt text" width="700" height="auto">
+<img src="{{site.baseurl}}/assets/img/task/task04.PNG" alt="alt text" width="800" height="auto">
 * 회의참여자를 선택하고, 회의주제, 장소, 시간을 정하세요. 
 * 그리고, 회의를 메일로 공지하여 보세요. 
 * 회의시 회의록에 첨부된 자료로 협의하고, 업무를 바로 할당하여 보세요. 
@@ -24,9 +31,7 @@ pnpdot.com은 업무공유플랫폼입니다. 대부분의 사용자들이 업�
 >회의메뉴를 이용하면 이와 같이 회의참석자와 함께 공유가 쉬워집니다. 더 이상 어느 곳에 회의록을 두었는지 찾지 않아도 쉽게 지난 회의를 참고하실 수 있게 됩니다. 언제든지 회의에서 할당된 업무의 진행사항을 실시간으로 확인할 수 있습니다. 회의메뉴를 통해 함께 공유하고, 함께 문제해결을 할 수 있게 됩니다.
 
 ## 기본설정, 대화&기록, 파일, 프로젝트/프로세스, 그 밖에
-<img src="{{site.baseurl}}/assets/img/pnp/pnp04.PNG" alt="alt text" width="700" height="auto">
-<img src="{{site.baseurl}}/assets/img/pnp/pnp05.PNG" alt="alt text" width="700" height="auto">
-<img src="{{site.baseurl}}/assets/img/pnp/pnp06.PNG" alt="alt text" width="700" height="auto">
+<img src="{{site.baseurl}}/assets/img/task/task03.PNG" alt="alt text" width="800" height="auto">
 * 내가 할 업무를 관리해보세요.
 * 누군가에게 업무를 부탁할 일이 있다면, 업무를 부탁할 담당자를 지정하여 업무를 만들어 보세요.
 * 현재 진행중인 업무가 승인이 필요하다면, 전재결재를 올려보세요.
@@ -36,32 +41,28 @@ pnpdot.com은 업무공유플랫폼입니다. 대부분의 사용자들이 업�
 
 메일보내기, 외부업체로보내기, 담당자추가, 업무삭제
 
+## 업무의 상태 - 진행, 완료, 중지, 패스, 롤백
+<img src="{{site.baseurl}}/assets/img/pnp/pnp09.PNG" alt="alt text" width="800" height="auto">
+> 분류되지 않은 이벤트성 업무 또는 프로젝트형 업무의 경우는 진행, 완료의 두 가지 상태값을 가집니다. pnpdot.com에서는 복잡한 업무상태를 두지 않고, 업무가 진행 중일 때와 완료된 때 두 가지로만 구분을 하고 있습니다. 다만, 프로세스형 업무의 경우는 절차별 진행 시 필요한 업무상태로 진행, 완료이외에 중지, 패스, 롤백의 상태값을 가지고 있습니다. 프로세스형 업무는 여러 단계(즉, 스텝)가 모여 하나의 업무흐름(프로세스)을 완료하게 됩니다. 각 단계는 최초 발생 이후 해당 단계의 업무가 완료됨에 따라 다음 단계의 업무가 자동생성되게 됩니다. 여러 단계의 업무가 처리되는 과정에서 중도에 중지하는 경우가 발생할 수도 있으며 이 경우 중지라는 상태값을 사용합니다. 경우에 따라 특정 단계의 업무를 수행하지 않고 다음단계의 업무를 생성해야 할 수 있으며 이 경우 패스라는 상태값을 사용합니다. 또는 이미 완료된 단계의 업무를 다시 시작해야 하는 경우도 발생할 수 있으며 이 경우 롤백처리로 인하여 생성된 업무 상태값이 됩니다. 업무관리 중 각 상태값을 변경할 수 있으며, 이렇게 변경된 상태값은 검색조건의 상태값을 선택하여 원하는 결과를 확인할 수 있습니다.
+
 ## 전자결재
-<img src="{{site.baseurl}}/assets/img/pnp/pnp12.PNG" alt="alt text" width="700" height="auto">
-> 관리메뉴는 관리자에게 제공되는 메뉴이며, 해당 메뉴에서 사용자의 계정관리 및 데이터관리를 할 수 있습니다. 
+<img src="{{site.baseurl}}/assets/img/task/task05.PNG alt="alt text" width="800" height="auto">
+> 선택한 업무내용으로 전자결재를 등록할 수 있습니다. 이렇게 등록한 결재문서는 결재메뉴에서 확인이 가능합니다.
+> 선택한 업무를 전자결재문서로 등록하게 되면, 업무정보를 수정할 수 없게 됩니다.
+> 수정이 필요하다면, 결재메뉴에서 전자결재 등록한 업무를 찾아 다음 결재자의 결재전에 회수처리 해야 합니다.
 
 ## 검색
-<img src="{{site.baseurl}}/assets/img/pnp/pnp07.PNG" alt="alt text" width="700" height="auto">
-* 프로젝트 리더라면 이 곳에서 프로젝트를 생성해보세요.
-* 프로젝트에 참여할 참여자를 구성하고, 프로젝트의 목표와 기한일을 정해보세요.
-* 프로젝트를 평가하는 상위 관리자를 정하세요.
-* 프로젝트 생성과 함께 업무를 관련자에게 바로 할당해보세요.
-> 프로젝트 메뉴는 프로젝트를 생성하고 관리하는 곳입니다. 프로젝트 생성 후 업무를 할당하게 되면, 프로젝트와 연관된 업무를 모아볼 수 있으며, 관련된 파일을 한 곳에서 관리할 수 있으며, 프로젝트와 연관된 업무의 히스토리, 대화목록을 한 곳에서 관리할 수 있습니다. 프로젝트메뉴에서 함께 공유하고, 함께 문제해결을 하기 쉽게 파일, 협의내용, 업무 진행상태를 확인할 수 있습니다. 
+> 검색어를 직접 입력하거나, 각 검색조건을 통해 원하는 검색결과를 확인할 수 있습니다.
 
-## 업무의 상태 - 진행, 완료, 중지, 패스, 롤백
-<img src="{{site.baseurl}}/assets/img/pnp/pnp09.PNG" alt="alt text" width="700" height="auto">
-* 결재할 문서를 확인하고 결재하세요.
-* 결재 올린 문서를 회수해야 하나요? 결재전에 회수처리하세요.
-> 결재메뉴는 업무메뉴 또는 프로세스메뉴에서 올린 결재 문서를 승인하고 관리하는 곳입니다. pnpdot.com에서는 기존 기안방식과 다르게 전자결재관리를 하고 있습니다. 기존에는 기안을 하기 위해 별도의 기안메뉴를 찾아가서 기안문서를 작성하여 기안을 올리고, 결재승인을 받아야 했습니다. pnpdot.com에서는 이 절차를 줄여 진행 업무에서 바로 전자결재를 올릴 수 있도록 개선하였습니다. 
 
 ## 업무의 대상자 - 내업무, 의뢰업무, 관심업무, 관련업무, 외부업체의뢰업무
-<img src="{{site.baseurl}}/assets/img/pnp/pnp08.PNG" alt="alt text" width="700" height="auto">
+<img src="{{site.baseurl}}/assets/img/pnp/pnp08.PNG" alt="alt text" width="800" height="auto">
 * 기본제공되는 프로세스르 참조하여 나만의 프로세스를 만들어보세요.
 * 업무를 보다 효율적으로 끊김없이 관리할 수 있도록 프로세스를 만들어 보세요.
 > 프로세스 메뉴는 프로세스르 생성하고 관리하는 곳입니다. 주로 업무프로세스를 정의하는 관리자들이 많이 사용하게 됩니다. 업무의 진행순서를 정의하고, 각 업무에서 수행해야 하는 가이드를 정리하여 관리할 수 있습니다. 관련 양식도 함께 첨부하여 업무를 쉽게 진행할 수 있도록 도와 줄 수 있습니다. 프로세스 메뉴에서 등록한 정보로 기업의 대부분의 사용자들이 참조하여 사용할 수 있습니다. 
 
 ## 다이렉트채팅
-<img src="{{site.baseurl}}/assets/img/pnp/pnp10.PNG" alt="alt text" width="700" height="auto">
+<img src="{{site.baseurl}}/assets/img/pnp/pnp10.PNG" alt="alt text" width="800" height="auto">
 * 주간보고를 실시간으로 확인해보세요.
 * 월간 통계 자료를 확인해보세요.
 * 프로젝트별 진행현황을 살펴보세요.
