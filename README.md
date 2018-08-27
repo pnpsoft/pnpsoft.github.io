@@ -1,5 +1,5 @@
 # pnpsoft.github.io
-User guide for pnpdot.com
+User guide for pnpdot.com using https://artemsheludko.github.io/flexible-jekyll/
 
 
 # Flexible-Jekyll is a simple and clean theme for Jekyll
