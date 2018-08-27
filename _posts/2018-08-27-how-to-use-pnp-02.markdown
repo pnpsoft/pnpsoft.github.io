@@ -21,17 +21,9 @@ pnpdot.com의 기본구성은 주메뉴부분, 서브메뉴로 검색조건이 �
 
 주 메뉴에서 가장 많이 사용하게 될 업무 메뉴의 각 기능들은 아래와 같습니다.
 
-
 <img src="{{site.baseurl}}/assets/img/task/task02.PNG" alt="alt text" width="800" height="auto">
-> 목록을 클릭하면 화면과 같이 우측에 각 목록의 상세정보를 관리할 수 있는 화면이 제공됩니다.
-
-<img src="{{site.baseurl}}/assets/img/task/task02_01.PNG" alt="alt text" width="300" height="auto">업무요청사항을 입력하는 설명과 업무진행결과를 입력하는 결과화면이 구분되어 있습니다.
-
-<img src="{{site.baseurl}}/assets/img/task/task02_02.PNG" alt="alt text" width="300" height="auto">해당 업무와 관련한 중요정보를 관리할 수 있습니다. 
-
-<img src="{{site.baseurl}}/assets/img/task/task02_03.PNG" alt="alt text" width="300" height="auto">해당 업무의 공개, 비공개를 통해 업무의 세부정보를 볼 수 있는 사람을 제한할 수 있습니다. 업무평가는 업무와 관련하여 담당자의 처리상태에 관하여 평정을 줄 수 있습니다. 관심업무설정은 내 업무외에 지켜봐야 하는 업무를 설정할 때 사용합니다.
-
-<img src="{{site.baseurl}}/assets/img/task/task02_04.PNG" alt="alt text" width="300" height="auto">그 밖에 관련회의, 관련업무자, 태그등으로 업무로 보다 세분하여 분류하고 관리할 수 있습니다.
+목록을 클릭하면 화면과 같이 우측에 각 목록의 상세정보를 관리할 수 있는 화면이 제공됩니다.
+이 곳에서 업무정보를 관리할 수 있습니다. 업무요청사항은 설명에 업무진행결과를 입력하는 결과화면이 구분되어 있습니다. 즉,업무의뢰자는 업무요청내용을 설명란에 기입하고, 업무담당자는 업무결과란에 입력란을 구분하여 업무의 요청사항과 결과를 한 눈에 확인할 수 있게 하였습니다. 업무와 관련된 담당자, 기한일, 업무상태등을 변경관리가 가능합니다. 업무의 공개, 비공개를 통해 업무의 세부정보를 볼 수 있는 사람을 제한할 수 있습니다. 업무평가는 업무와 관련하여 담당자의 처리상태에 관하여 평정을 줄 수 있습니다. 관심업무설정은 내 업무외에 지켜봐야 하는 업무를 설정할 때 사용합니다. 그 밖에 관련회의, 관련업무자, 태그등으로 업무를 보다 세분하여 분류하고 관리할 수 있습니다.
 
 ## 목록보기, 그룹별보기, 달력보기
 <img src="{{site.baseurl}}/assets/img/task/task04.PNG" alt="alt text" width="800" height="auto">
