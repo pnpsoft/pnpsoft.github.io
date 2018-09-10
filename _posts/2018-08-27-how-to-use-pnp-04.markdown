@@ -3,7 +3,7 @@ layout: post
 title: 프로젝트 메뉴의 세부기능 알아보기
 date: 2018-09-10 11:05:20 +0300
 description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
-img: meeting.PNG # Add image post (optional)
+img: project.PNG # Add image post (optional)
 fig-caption: # Add figcaption (optional)
 tags: [pnpdot, 협업관리, 공유, 업무공유, 업무, 프로젝트, 프로젝트관리, 업무공유플랫폼]
 ---
